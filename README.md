@@ -33,17 +33,17 @@ Author Matrix:
 
 Author | Responsibility
 ---|---------
-“Christopher ‘Wild Card’ Morgan” | Data Cleaner & Business Acumen
-”Dana ‘Angry Bird’ Geislinger” | Data Examiner & Quality
-“Caroll ‘C-Rod’ Rodriguez” | Data Analyzer & Visualizer
-“Luay ‘Big Ogre’ Dajani” | Data Artist & Model (I meant being a model, not a data modeler)
+Christopher ‘Wild Card’ Morgan | Data Cleaner & Business Acumen
+Dana ‘Angry Bird’ Geislinger | Data Examiner & Quality
+Caroll ‘C-Rod’ Rodriguez | Data Analyzer & Visualizer
+Luay ‘Big Ogre’ Dajani | Data Artist & Model (I meant being a model, not a data modeler)
 
 Resource Files:
 
 ## Code & Presentation files
 File | Description
 ---|---------
-`JupyterNotebooks/Project 1..ipynb ` | Python Jupyter Notebook file & Markdown
+`7331DataMiningNoShow.ipynb` | Python Jupyter Notebook file & Markdown
 
 ## Metafiles
 File | Description
@@ -51,7 +51,7 @@ File | Description
 `README.md` | Current file with top level summary
 `Codebook.md` | Description file with detail level information about the variables and files
 
-## Code & Lbraries
+## Code & Libraries
 
 File | Description
 ---|---------
@@ -61,5 +61,5 @@ N/A | N/A
 
 File | Description
 ---|---------
-`orig_dataset.csv` | Data file with patient descriptive information before cleaning
-`???.csv`
+`KaggleV2-May-2016.csv` | Data file with patient descriptive information before cleaning
+`???.csv` | Cleaned Data set ??? not sure if this should be included
