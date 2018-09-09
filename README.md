@@ -29,6 +29,7 @@ Title: Clinic Appointment No Show
 Abstract: Clinic Appointment Prediction System; to predict is a patient is likely to miss an appointment using data mining and machine learning techniques with a dataset (Project).
 
 Goal is to analyze pre-collected data (anonymized Brazilian patient data from Kaggle), normalize and clean the data, and create analysis that will show an apparent relationship between the attributes of patients, previous no-show history, and other factors such as time of the year or if there was an event to the likeliness of a patient no-show.
+
 Author Matrix:
 
 Author | Responsibility
