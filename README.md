@@ -1,20 +1,20 @@
 # SMU-MSDS-7331DataMiningNoShow
 Team Stargazers!
 
-  .            /\         .       .    
-        .     /  \      .          .    
-             /    \   .        .    *   
-            /      \              *     
-            |      |   .    .   **      
-     .     /|      |\           **      
-          / | /\/\ | \   .     . *      
-      .  /  |=|==|=|  \     .      *    
-     . /    | |  | |    \  .            
-      / SMU |      |MSDS \     .        
-     |______|  ^^  |______|       .     
-    .       (__||__)     .   .          
- ------.----/_\--/_\--.-----.----.--    
-            !!!  !!!                    
+......*......../\....*............
+...*......*.../..\.....*..........
+...*..*....../....\......*......*.
+........*.../......\...*......*...
+..*.........|......|........**....
+....*....../|......|\.......**....
+......*.../.|./\/\.|.\.......*....
+..*....../..|=|==|=|..\........*..
+......./....|.|..|.|....\.........
+...*../.SMU.|......|MSDS.\...*....
+.....|______|..^^..|______|.......
+............(__||__)..............
+............/_\--/_\..............  
+------.-----!!!  !!!--.------.----               
 Inspired by cows: https://jr.co.il/humor/ascii-art-cows-1-of-5.txt                                          
 
                   
@@ -29,10 +29,10 @@ Author Matrix:
 
 Author | Responsibility
 ---|---------
-“Christopher ‘Wild Card’ Morgan” | Data Cleaner & Business Acumen
-”Dana ‘Angry Bird’ Geislinger” | Data Examiner & Quality
-“Caroll ‘C-Rod’ Rodriguez” | Data Analyzer & Visualizer
-“Luay ‘Big Ogre’ Dajani” | Data Artist & Model (I meant being a model, not a data modeler)
+â€œChristopher â€˜Wild Cardâ€™ Morganâ€ | Data Cleaner & Business Acumen
+â€Dana â€˜Angry Birdâ€™ Geislingerâ€ | Data Examiner & Quality
+â€œCaroll â€˜C-Rodâ€™ Rodriguezâ€ | Data Analyzer & Visualizer
+â€œLuay â€˜Big Ogreâ€™ Dajaniâ€ | Data Artist & Model (I meant being a model, not a data modeler)
 
 Resource Files:
 
